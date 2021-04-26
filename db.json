@@ -1,0 +1,81 @@
+{
+  "students": [
+    {
+      "code": "ps11719",
+      "gender": "female",
+      "firstName": "join",
+      "lastName": "joe",
+      "dob": "2021-04-23",
+      "email": "joinjoe@gmail.com",
+      "phone": "112211212",
+      "picture": "1.jpg",
+      "id": 1
+    },
+    {
+      "code": "ps111212",
+      "gender": "female",
+      "firstName": "nue",
+      "lastName": "tran",
+      "dob": "2021-04-16",
+      "email": "nuetran@gmail.com",
+      "phone": "0112211212",
+      "picture": "1.jpg",
+      "id": 2
+    },
+    {
+      "code": "ps111212",
+      "gender": "male",
+      "firstName": "nue",
+      "lastName": "tran",
+      "dob": "2021-04-16",
+      "email": "nuetran@gmail.com",
+      "phone": "0112211212",
+      "picture": "1.jpg",
+      "id": 3
+    },
+    {
+      "code": "ps111212",
+      "gender": "male",
+      "firstName": "nue",
+      "lastName": "tran",
+      "dob": "2021-04-16",
+      "email": "nuetran@gmail.com",
+      "phone": "0112211212",
+      "picture": "1.jpg",
+      "id": 4
+    },
+    {
+      "code": "ps111212",
+      "gender": "other",
+      "firstName": "nue",
+      "lastName": "tran",
+      "dob": "2021-04-16",
+      "email": "nuetran@gmail.com",
+      "phone": "0112211212",
+      "picture": "1.jpg",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "pass": "123456"
+    },
+    {
+      "id": 1,
+      "name": "user",
+      "pass": "123"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
